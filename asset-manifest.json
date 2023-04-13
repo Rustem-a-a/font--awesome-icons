@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/docku-sketch-test/static/css/main.accde657.css",
-    "main.js": "/docku-sketch-test/static/js/main.c1caf4f0.js",
-    "index.html": "/docku-sketch-test/index.html",
-    "main.accde657.css.map": "/docku-sketch-test/static/css/main.accde657.css.map",
-    "main.c1caf4f0.js.map": "/docku-sketch-test/static/js/main.c1caf4f0.js.map"
+    "main.css": "/font-awesome-icons/static/css/main.accde657.css",
+    "main.js": "/font-awesome-icons/static/js/main.c1caf4f0.js",
+    "index.html": "/font-awesome-icons/index.html",
+    "main.accde657.css.map": "/font-awesome-icons/static/css/main.accde657.css.map",
+    "main.c1caf4f0.js.map": "/font-awesome-icons/static/js/main.c1caf4f0.js.map"
   },
   "entrypoints": [
     "static/css/main.accde657.css",

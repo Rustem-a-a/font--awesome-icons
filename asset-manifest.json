@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/font-awesome-icons/static/css/main.accde657.css",
-    "main.js": "/font-awesome-icons/static/js/main.c1caf4f0.js",
-    "index.html": "/font-awesome-icons/index.html",
-    "main.accde657.css.map": "/font-awesome-icons/static/css/main.accde657.css.map",
-    "main.c1caf4f0.js.map": "/font-awesome-icons/static/js/main.c1caf4f0.js.map"
+    "main.css": "/static/css/main.de000fe5.css",
+    "main.js": "/static/js/main.c7894cf7.js",
+    "index.html": "/index.html",
+    "main.de000fe5.css.map": "/static/css/main.de000fe5.css.map",
+    "main.c7894cf7.js.map": "/static/js/main.c7894cf7.js.map"
   },
   "entrypoints": [
-    "static/css/main.accde657.css",
-    "static/js/main.c1caf4f0.js"
+    "static/css/main.de000fe5.css",
+    "static/js/main.c7894cf7.js"
   ]
 }

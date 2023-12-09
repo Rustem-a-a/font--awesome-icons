@@ -16,15 +16,15 @@ const Icon = () => {
     return (
         <div className={styles.wrapper}>
             {disabled
-                ? <FontAwesomeIcon size='6x' icon="arrow-rotate-forward" spin/>
-                : <FontAwesomeIcon size='6x' icon={iconList[index].iconName}/>}
+                ? <FontAwesomeIcon size='10x' icon="arrow-rotate-forward" spin/>
+                : <FontAwesomeIcon size='10x' icon={iconList[index].iconName}/>}
             <Button disabled={disabled}
             onClick={()=>{
                 setDisabled(true)
                 setTimeout(()=>{
                 setIndex(Math.floor(Math.random()*iconList.length))
                 setDisabled(false)
-            },3000)
+            },1500)
 
                 }}
             >Change icon</Button>
